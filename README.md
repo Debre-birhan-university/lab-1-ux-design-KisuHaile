@@ -33,8 +33,17 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+
+**Selected Ethiopian App:** 
+> [Ethiopian Airlines Mobile APP]
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> [Figma]
+
+
+**The Figma link**
+> [https://www.figma.com/design/0AL9GD2EcafdIzsnKnjo8S/Ethiopian-Airline-mobile-app?node-id=0-1&t=ytGZhS1dTJTCd7d0-1]
+
+**The Figma prototype link**
+>[https://www.figma.com/proto/0AL9GD2EcafdIzsnKnjo8S/Ethiopian-Airline-mobile-app?node-id=3-8&p=f&t=2F5NBDhTlADmjUFn-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A8&show-proto-sidebar=1]
